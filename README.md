@@ -25,7 +25,7 @@
   <img align="center" alt="ReactJS" height="30" width="40" src="./imgs/react-original.svg">
   <img align="center" alt="NextJS" height="30" width="40" src="./imgs/nextjs-original.svg">
 </div>
-
+<br/><br/>
 <div>
   <a href="https://github.com/dev-vinicius">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dev-vinicius&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
