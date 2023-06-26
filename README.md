@@ -5,7 +5,7 @@
 ## Experiências
 - 📚 Desenvolvimento de APIs, integração entre sistemas, integração com Azure AD/Microsoft AD
 - 📚 Desenvolvimento Web com ASP.NET MVC e NextJS
-- 📚 Desenvolvimento Mobile 
+- 📚 Desenvolvimento Mobile com Flutter
 - 📚 Automações de envio de e-mails e relatórios com Python
 - 📚 Banco de dados SQLServer, MySql e RDS Aurora
 - 📚 Gerenciamento de serviços em nuvem da AWS (EC2, RDS, Route53, LoadBalancer, WAF)
